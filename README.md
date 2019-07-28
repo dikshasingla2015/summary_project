@@ -2,8 +2,7 @@
 >>>ToDo List
   1) Rogue score
   2) LSTM
-  3) Data set complete
-  4) Extra articles
+  3) Extra articles
  
 >>>Problems faced
   1) Csv file not created directly as we have multiline data so we converted xlsx file to csv by using python lib
